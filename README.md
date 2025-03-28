@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Matheus Lima um profissional em constante evolução, apaixonado por tecnologia e inovação.
+Me chamo Matheus Lima, um profissional em constante evolução, apaixonado por tecnologia e inovação.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/matheusliima/">
