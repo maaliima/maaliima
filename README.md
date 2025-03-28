@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Matheus Lima e sou apaixonado por tecnologia e inovação. <p>
+Me chamo Matheus Lima e sou apaixonado por tecnologia e inovação. </p>
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FAM - Faculdade das Américas.
 
 <p align="left">
