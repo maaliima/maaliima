@@ -2,7 +2,8 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Matheus Lima, tenho 18 anos e sou natural de São Paulo (Capital). Concluí o ensino médio na ETEC e atualmente estou cursando Análise e Desenvolvimento de Sistemas na FAM - Faculdade das Américas.
+Me chamo Matheus Lima e sou apaixonado por tecnologia e inovação. 
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FAM - Faculdade das Américas.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/matheusliima/">
