@@ -18,5 +18,5 @@ Me chamo **Matheus Lima**, tenho 18 anos e sou de São Paulo (Capital). Atualmen
 ### 🤖 Linguagens e Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,cs,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,cs,js,html,css,git,github" />
 </p>
