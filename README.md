@@ -1,23 +1,21 @@
-# 👨🏼‍💻 Matheus Lima
+# Matheus Lima
 
 **`Desenvolvedor Backend`**
 
-Me chamo **Matheus Lima**, tenho 18 anos e sou de São Paulo (Capital). Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FAM. Sou um profissional em constante evolução, apaixonado por tecnologia e inovação.
+Sou um desenvolvedor apaixonado por aprender e crescer profissionalmente. Busco sempre produzir códigos claros, eficientes e fáceis de manter.
+Valorizo o trabalho em equipe e a troca de conhecimentos, pois acredito que juntos podemos alcançar resultados melhores. Tenho experiência com SQL (MySQL) e estou me aprofundando em Java, especialmente na construção de APIs usando o framework Spring Boot.
 
-<p align="">
-  <a href="https://www.linkedin.com/in/matheusliima/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:matheusliima.in@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+•📫 Contato: [matheusliima.in@gmail.com](mailto:matheusliima.in@gmail.com)
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🧰 Linguagens e Ferramentas
 
-<p align="">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="55" />
-  <img src="https://skillicons.dev/icons?i=spring,cs,html,css,git,github" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="SQL" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
 </p>
