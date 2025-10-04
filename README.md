@@ -5,15 +5,10 @@
 ## Matheus Lima
 
 **`Desenvolvedor Backend`**
-
-Sou um desenvolvedor apaixonado por aprender e crescer profissionalmente. Busco sempre produzir códigos claros, eficientes e fáceis de manter.
-Valorizo o trabalho em equipe e a troca de conhecimentos, pois acredito que juntos podemos alcançar resultados melhores. Tenho experiência com SQL (MySQL) e estou me aprofundando em Java, especialmente na construção de APIs usando o framework Spring Boot.
-
 •📫 Contato: [matheusliima.in@gmail.com](mailto:matheusliima.in@gmail.com)
 
 ---
 
-### 🧰 Linguagens e Ferramentas
 <p align="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="35"/> &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="35"/> &nbsp;&nbsp;&nbsp;
