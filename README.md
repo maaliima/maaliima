@@ -2,7 +2,7 @@
   <img width="100%" src="assets/bannergit.svg" alt="Banner de Gradiente Fixo" />
 </div>
 
-## Matheus Lima
+# Matheus Lima
 
 ****`Desenvolvedor Backend`****
 
@@ -10,7 +10,7 @@ Sou um desenvolvedor apaixonado. Minha paixão por software é criar ideias e to
 
 ---
 
-#### 🧰 Linguagens e Ferramentas:
+### 🧰 Linguagens e Ferramentas:
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="35"/> &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="35"/> &nbsp;&nbsp;&nbsp;
