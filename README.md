@@ -4,12 +4,14 @@
 
 ## Matheus Lima
 
-**`Desenvolvedor Backend`**
-•📫 Contato: [matheusliima.in@gmail.com](mailto:matheusliima.in@gmail.com)
+****`Desenvolvedor Backend`****
+
+Sou um desenvolvedor apaixonado. Minha paixão por software é criar ideias e torná-las realidade com código elegante. Eu realmente me importo com a arquitetura e a qualidade do código das coisas que construo.
 
 ---
 
-<p align="">
+#### 🧰 Linguagens e Ferramentas:
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="35"/> &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="35"/> &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="SQL" width="35"/> &nbsp;&nbsp;&nbsp;
